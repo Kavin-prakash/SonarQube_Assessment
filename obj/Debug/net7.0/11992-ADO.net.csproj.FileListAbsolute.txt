@@ -1,0 +1,80 @@
+C:\Users\kavin.senthil\Desktop\11992-ADO.net\bin\Debug\net7.0\11992-ADO.net.exe
+C:\Users\kavin.senthil\Desktop\11992-ADO.net\bin\Debug\net7.0\11992-ADO.net.deps.json
+C:\Users\kavin.senthil\Desktop\11992-ADO.net\bin\Debug\net7.0\11992-ADO.net.runtimeconfig.json
+C:\Users\kavin.senthil\Desktop\11992-ADO.net\bin\Debug\net7.0\11992-ADO.net.dll
+C:\Users\kavin.senthil\Desktop\11992-ADO.net\bin\Debug\net7.0\11992-ADO.net.pdb
+C:\Users\kavin.senthil\Desktop\11992-ADO.net\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\kavin.senthil\Desktop\11992-ADO.net\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\kavin.senthil\Desktop\11992-ADO.net\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\kavin.senthil\Desktop\11992-ADO.net\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\kavin.senthil\Desktop\11992-ADO.net\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\kavin.senthil\Desktop\11992-ADO.net\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kavin.senthil\Desktop\11992-ADO.net\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\kavin.senthil\Desktop\11992-ADO.net\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kavin.senthil\Desktop\11992-ADO.net\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\kavin.senthil\Desktop\11992-ADO.net\bin\Debug\net7.0\System.IO.Pipelines.dll
+C:\Users\kavin.senthil\Desktop\11992-ADO.net\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kavin.senthil\Desktop\11992-ADO.net\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\kavin.senthil\Desktop\11992-ADO.net\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\kavin.senthil\Desktop\11992-ADO.net\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\kavin.senthil\Desktop\11992-ADO.net\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kavin.senthil\Desktop\11992-ADO.net\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\kavin.senthil\Desktop\11992-ADO.net\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\kavin.senthil\Desktop\11992-ADO.net\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\kavin.senthil\Desktop\11992-ADO.net\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\kavin.senthil\Desktop\11992-ADO.net\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\kavin.senthil\Desktop\11992-ADO.net\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kavin.senthil\Desktop\11992-ADO.net\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kavin.senthil\Desktop\11992-ADO.net\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kavin.senthil\Desktop\11992-ADO.net\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\kavin.senthil\Desktop\11992-ADO.net\obj\Debug\net7.0\11992-ADO.net.csproj.AssemblyReference.cache
+C:\Users\kavin.senthil\Desktop\11992-ADO.net\obj\Debug\net7.0\11992-ADO.net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavin.senthil\Desktop\11992-ADO.net\obj\Debug\net7.0\11992-ADO.net.AssemblyInfoInputs.cache
+C:\Users\kavin.senthil\Desktop\11992-ADO.net\obj\Debug\net7.0\11992-ADO.net.AssemblyInfo.cs
+C:\Users\kavin.senthil\Desktop\11992-ADO.net\obj\Debug\net7.0\11992-ADO.net.csproj.CoreCompileInputs.cache
+C:\Users\kavin.senthil\Desktop\11992-ADO.net\obj\Debug\net7.0\11992-ADO.net.csproj.CopyComplete
+C:\Users\kavin.senthil\Desktop\11992-ADO.net\obj\Debug\net7.0\11992-ADO.net.dll
+C:\Users\kavin.senthil\Desktop\11992-ADO.net\obj\Debug\net7.0\refint\11992-ADO.net.dll
+C:\Users\kavin.senthil\Desktop\11992-ADO.net\obj\Debug\net7.0\11992-ADO.net.pdb
+C:\Users\kavin.senthil\Desktop\11992-ADO.net\obj\Debug\net7.0\11992-ADO.net.genruntimeconfig.cache
+C:\Users\kavin.senthil\Desktop\11992-ADO.net\obj\Debug\net7.0\ref\11992-ADO.net.dll
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\bin\Debug\net7.0\11992-ADO.net.exe
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\bin\Debug\net7.0\11992-ADO.net.deps.json
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\bin\Debug\net7.0\11992-ADO.net.runtimeconfig.json
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\bin\Debug\net7.0\11992-ADO.net.dll
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\bin\Debug\net7.0\11992-ADO.net.pdb
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\bin\Debug\net7.0\System.IO.Pipelines.dll
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\obj\Debug\net7.0\11992-ADO.net.csproj.AssemblyReference.cache
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\obj\Debug\net7.0\11992-ADO.net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\obj\Debug\net7.0\11992-ADO.net.AssemblyInfoInputs.cache
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\obj\Debug\net7.0\11992-ADO.net.AssemblyInfo.cs
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\obj\Debug\net7.0\11992-ADO.net.csproj.CoreCompileInputs.cache
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\obj\Debug\net7.0\11992-ADO.net.csproj.CopyComplete
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\obj\Debug\net7.0\11992-ADO.net.dll
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\obj\Debug\net7.0\refint\11992-ADO.net.dll
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\obj\Debug\net7.0\11992-ADO.net.pdb
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\obj\Debug\net7.0\11992-ADO.net.genruntimeconfig.cache
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\obj\Debug\net7.0\ref\11992-ADO.net.dll

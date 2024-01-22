@@ -1,0 +1,6 @@
+﻿C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\Add.cs
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\CRUD.cs
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\Delete.cs
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\Program.cs
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\Read.cs
+C:\Users\kavin.senthil\Desktop\Core Assess ment Files\ADO Dotnet Assessment\11992-ADO.net\Update.cs
